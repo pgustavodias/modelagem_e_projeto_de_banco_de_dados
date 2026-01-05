@@ -60,6 +60,8 @@ Os principais conteúdos trabalhados na disciplina incluem:
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
 └── README.md
 
+---
+
 ## ▶️ Como utilizar este repositório
 
 - Acompanhe os conteúdos por meio dos slides de aula;
@@ -68,24 +70,32 @@ Os principais conteúdos trabalhados na disciplina incluem:
 - Resolva as atividades avaliativas conforme orientações fornecidas;
 - Utilize as atividades de fixação para reforçar o aprendizado contínuo.
 
+---
+
 ## ⚙️ Pré-requisitos
 
 - Noções básicas de lógica e programação;
 - Acesso a um SGBD conforme indicado em aula;
 - Ambiente de desenvolvimento configurado para execução de scripts SQL.
 
+---
+
 ⚠️ Observações importantes
 - Os dados utilizados são exclusivamente didáticos;
 - Nenhuma base de dados real ou sensível é utilizada;
 - O conteúdo pode sofrer ajustes ao longo do semestre.
 
-📖 Referências
+---
+
+## 📖 Referências
 
 Algumas das principais referências utilizadas na disciplina:
 - Silberschatz, A. – Sistema de Banco de Dados
 - Alves, W. P. – Banco de Dados: teoria e desenvolvimento
 - Cardoso, G. C. – Linguagem SQL: fundamentos e práticas
 - Picchetti, R. F.; Vida, E. S. – Banco de Dados
+
+---
 
 ## 👨‍🏫 Professor responsável
 Luiz Gustavo Dias
