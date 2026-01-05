@@ -1,6 +1,4 @@
-# 📘 README — Modelagem e Projeto de Banco de Dados (MPBD)
-
-```md
+md
 # Modelagem e Projeto de Banco de Dados (MPBD)
 
 Repositório de apoio à disciplina **Modelagem e Projeto de Banco de Dados**,  
