@@ -61,50 +61,33 @@ Os principais conteúdos trabalhados na disciplina incluem:
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
 └── README.md
 
-▶️ Como utilizar este repositório
+## ▶️ Como utilizar este repositório
 
-Acompanhe os conteúdos por meio dos slides de aula;
+- Acompanhe os conteúdos por meio dos slides de aula;
+- Utilize os materiais de estudo para aprofundamento teórico;
+- Analise e execute os scripts SQL para compreender os conceitos na prática;
+- Resolva as atividades avaliativas conforme orientações fornecidas;
+- Utilize as atividades de fixação para reforçar o aprendizado contínuo.
 
-Utilize os materiais de estudo para aprofundamento teórico;
+## ⚙️ Pré-requisitos
 
-Analise e execute os scripts SQL para compreender os conceitos na prática;
-
-Resolva as atividades avaliativas conforme orientações fornecidas;
-
-Utilize as atividades de fixação para reforçar o aprendizado contínuo.
-
-⚙️ Pré-requisitos
-
-Noções básicas de lógica e programação;
-
-Acesso a um SGBD conforme indicado em aula;
-
-Ambiente de desenvolvimento configurado para execução de scripts SQL.
+- Noções básicas de lógica e programação;
+- Acesso a um SGBD conforme indicado em aula;
+- Ambiente de desenvolvimento configurado para execução de scripts SQL.
 
 ⚠️ Observações importantes
-
-Os dados utilizados são exclusivamente didáticos;
-
-Nenhuma base de dados real ou sensível é utilizada;
-
-O conteúdo pode sofrer ajustes ao longo do semestre.
+- Os dados utilizados são exclusivamente didáticos;
+- Nenhuma base de dados real ou sensível é utilizada;
+- O conteúdo pode sofrer ajustes ao longo do semestre.
 
 📖 Referências
 
 Algumas das principais referências utilizadas na disciplina:
+- Silberschatz, A. – Sistema de Banco de Dados
+- Alves, W. P. – Banco de Dados: teoria e desenvolvimento
+- Cardoso, G. C. – Linguagem SQL: fundamentos e práticas
+- Picchetti, R. F.; Vida, E. S. – Banco de Dados
 
-Silberschatz, A. – Sistema de Banco de Dados
-
-Alves, W. P. – Banco de Dados: teoria e desenvolvimento
-
-Cardoso, G. C. – Linguagem SQL: fundamentos e práticas
-
-Picchetti, R. F.; Vida, E. S. – Banco de Dados
-
-👨‍🏫 Professor responsável
-
+## 👨‍🏫 Professor responsável
 Luiz Gustavo Dias
-Professor de Sistemas de Informação (Graduação e MBA)
-
-📌 **Observação**  
-Este repositório é atualizado continuamente e reflete práticas didáticas e profissionais utilizadas em disciplinas de graduação e MBA, bem como em projetos reais de Business Intelligence e Dados.
+Professor universitário (Graduação e MBA)
